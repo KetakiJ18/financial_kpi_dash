@@ -1,1 +1,1 @@
-# financial_kpi_dash
+# Dashboard for companies financial KPIs
